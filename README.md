@@ -1,29 +1,73 @@
-Hi, I’m Eniola 👋
+Hi, I’m Eniola.
 
-Mechanical Engineering Student | Aspiring AI & Machine Learning Engineer
+Mechanical Engineering Student | Exploring Artificial Intelligence
 
-I’m passionate about technology, problem-solving, and exploring how Artificial Intelligence can improve everyday processes.
+I’m a Mechanical Engineering student with an interest in technology, innovation, and intelligent systems.
+
+I’m exploring the intersection of Mechanical Engineering and Artificial Intelligence, building practical projects while developing my technical skills.
+
+⸻
+
+Areas of Interest
+
+* Artificial Intelligence & Machine Learning
+* Engineering Innovation
+* Workflow Automation
+* Python Programming
+* Intelligent Systems
+
+Technologies & Tools
+
+* Python
+* n8n
+* Git & GitHub
+* AI Tools
+* API Integration
+
+Featured Projects
+
+API Testing Assistant
+
+An AI-powered API testing workflow built with n8n. It interprets natural-language instructions, executes API requests, and explains the responses.
 
 Currently Learning
 
 * Python Programming
-* Artificial Intelligence & Machine Learning
-* AI Agents and Workflow Automation
+* AI & Machine Learning
 * API Integration
+* Engineering Software & Digital Tools
 
-Projects
+My Goal
 
-* API Testing Assistant – An AI-powered API testing workflow built with n8n.
+To combine engineering principles with emerging technologies to develop practical solutions to real-world problems.
 
-Goals
+⸻
 
-* Build practical AI and automation projects.
-* Develop my programming skills.
-* Explore the intersection of Engineering and Artificial Intelligence.
+Learning, building, and improving — one project at a time.
 
-Let’s Connect
 
-I’m always open to learning, collaborating, and exploring new opportunities.
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
 
 <!--
 **eniolune/eniolune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
