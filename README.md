@@ -6,7 +6,6 @@ I’m a Mechanical Engineering student with an interest in technology, innovatio
 
 I’m exploring the intersection of Mechanical Engineering and Artificial Intelligence, building practical projects while developing my technical skills.
 
-⸻
 
 Areas of Interest
 
@@ -40,8 +39,6 @@ Currently Learning
 My Goal
 
 To combine engineering principles with emerging technologies to develop practical solutions to real-world problems.
-
-⸻
 
 Learning, building, and improving — one project at a time.
 
