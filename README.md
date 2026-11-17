@@ -40,7 +40,7 @@ My Goal
 
 To combine engineering principles with emerging technologies to develop practical solutions to real-world problems.
 
-Learning, building, and improving — one project at a time.
+Learning, building, and improving.
 
 
 
